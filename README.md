@@ -1,5 +1,5 @@
 # Hi there 👋
-
+## I`m Evgeny, a novice self-taught frontend developer. :neckbeard:	
 <!--
 **Evgenizhgor/Evgenizhgor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
