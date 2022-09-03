@@ -11,7 +11,7 @@
   -
 
   - 🚴‍♂️ ride a bike
-  - :skull: black metall music
+  - :skull: [ambient black metall music](https://music.apple.com/ru/album/eye-of-prima/1480244813?i=1480244814)
   - :feet:  train my killer dog
  
    
