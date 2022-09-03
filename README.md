@@ -1,5 +1,5 @@
 # Hello there! :call_me_hand:
-## I'm Eugeny. Not the coolest yet, but already a pretty promising frontend developer from north venice. i'm learning to design the interface of catering websites.      
+## I'm Eugeny. Not the coolest yet, but already a pretty promising frontend developer from north Venice. i'm learning to design the interface of catering websites.      
 * :nerd_face: *I’m currently learning*:
    -
    <img align="left" alt="html5" width="24px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"/> 
