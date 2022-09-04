@@ -7,7 +7,7 @@
    <img align="left" alt="CSS3" width="24px" src="https://avatars.mds.yandex.net/get-entity_search/5499684/551843440/S122x122Fit_2x"/> </br>
  ____
 
-* ⭐  i like : 
+* ⭐  *i like* : 
   -
 
   - 🚴‍♂️ riding a bike
