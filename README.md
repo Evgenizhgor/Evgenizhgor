@@ -7,13 +7,13 @@
    <img align="left" alt="CSS3" width="24px" src="https://avatars.mds.yandex.net/get-entity_search/5499684/551843440/S122x122Fit_2x"/> </br>
  ____
 
-* ⭐ *i like *: 
+* ⭐  i like : 
   -
 
-  - 🚴‍♂️ ride a bike
+  - 🚴‍♂️ riding a bike
   - :skull: [ambient black metall music](https://music.apple.com/ru/album/eye-of-prima/1480244813?i=1480244814)
-  - :feet:  train my killer dog
- 
+  - :feet:  training my killer dog 
+  - 💻 coding
    
    
  
