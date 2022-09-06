@@ -12,7 +12,7 @@
 
   - 🚴‍♂️<a href="https://github.com/Evgenizhgor/Evgenizhgor/blob/moments/images/bike.jpg"> riding a bike</a>
   - :skull: [ambient black metall music](https://music.apple.com/ru/album/eye-of-prima/1480244813?i=1480244814)
-  - :feet: <a href="moments/valkiria.jpg">training my killer dog</a>
+  - :feet: <a href="https://github.com/Evgenizhgor/Evgenizhgor/blob/moments/images/valkiria.jpg">training my killer dog</a>
   - 💻 coding
    
    
