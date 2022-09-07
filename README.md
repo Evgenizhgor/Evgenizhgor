@@ -12,7 +12,8 @@
 
   - 🚴‍♂️ riding a bike
   - :skull: [ambient black metall music](https://music.apple.com/ru/album/eye-of-prima/1480244813?i=1480244814)
-  - :feet:  training my killer dog 
+  - :feet: <details><summary>training my killer dog</summary>![image](https://user-images.githubusercontent.com/94868105/188967731-b673ac9f-8b4a-48b6-bdfd-af0e9dbadda6.png)
+</details>
   - 💻 coding
    
    
